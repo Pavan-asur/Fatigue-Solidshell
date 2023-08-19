@@ -14,3 +14,9 @@ In: Theoretical and Applied Fracture Mechanics (2023), p. 104029. issn: 0167-844
 
 
 Please report any problems and suggestions to pavan.kumar@ilsb.tuwien.ac.at
+
+Co-Authors:
+
+Jose Reinoso, "josereinoso", University of Seville, Spain.
+
+Aamir Dean, "aamir-dean", Leibniz University of Hannover, Germany. 
